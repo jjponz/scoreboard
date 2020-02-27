@@ -6,4 +6,4 @@ class ScoreBoard:
         self.local +=1
 
     def result(self):
-        return f'{self.local}-0'
+        return f'00{self.local}-000'
