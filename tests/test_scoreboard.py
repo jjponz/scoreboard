@@ -34,3 +34,6 @@ class TestScoreBoard:
             score_board.add_one_for_local()
 
         assert score_board.result() == '010-000'
+
+
+    esto es uno
